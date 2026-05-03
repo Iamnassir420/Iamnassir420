@@ -1,16 +1,17 @@
-## Hi there 👋
+### Building AI agents that ship real work
 
-<!--
-**Iamnassir420/Iamnassir420** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build agentic systems that handle whole content workflows end-to-end — generation, rendering, scheduling, publishing — with humans only in the loop for taste.
 
-Here are some ideas to get you started:
+**Currently competing:** Build with AI · Agentic Premier League 2026 · Vibe Coding bracket.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Pinned project
+
+[`social-remotion-autopost`](https://github.com/Iamnassir420/social-remotion-autopost) — Agentic content pipeline: AI-generated poster → Remotion 30-second motion video with AI voice-over and ducked music → auto-publishes to LinkedIn, X, and Instagram every 6 hours.
+
+#### Stack
+
+TypeScript · Node.js · React · Remotion · n8n · LinkedIn / Meta Graph APIs · MS Edge Neural TTS · PowerShell
+
+#### Currently exploring
+
+Agent orchestration patterns for long-running content pipelines. Self-healing automations — retry, observability, reproducibility. Voice-driven video composition with synchronized audio ducking.
